@@ -15,7 +15,7 @@
 
 ###> symfony/framework-bundle ###
 APP_ENV=dev
-APP_SECRET=75c64109f7b12a34a6136a20be2c0585
+APP_SECRET=averysecretkey
 ###< symfony/framework-bundle ###
 
 ###> doctrine/doctrine-bundle ###
